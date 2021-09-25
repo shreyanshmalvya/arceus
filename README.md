@@ -62,6 +62,14 @@ Minimum System Requirements for working with the prototype. [Know More](https://
 
 ---
 <div align= "center">
+Made by <br>
+ 
+   
+   <a href="https://github.com/shreyanshmalvya">Shreyansh</a>&nbsp;&nbsp;&nbsp;
+   <a href="https://github.com/knayannn">Nayan</a>
+   
+
+
 Show some ❤️ by starring some of the repositories!
 </div>
 
